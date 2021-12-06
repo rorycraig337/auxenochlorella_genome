@@ -6,7 +6,7 @@
 #SBATCH --account=fc_halflife
 #
 # Partition:
-#SBATCH --partition=savio2
+#SBATCH --partition=savio2_bigmem
 #
 # Request one node:
 #SBATCH --nodes=1
